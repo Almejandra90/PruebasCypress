@@ -1,0 +1,17 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "PRUEBASCURSO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "PRUEBASCURSO"
+  ],
+  "author": "Almejandra",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
